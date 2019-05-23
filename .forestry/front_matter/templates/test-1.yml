@@ -1,4 +1,14 @@
 ---
 label: test-1
 hide_body: false
-fields: []
+fields:
+- name: social
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  label: Social
+  description: Show your widgets
