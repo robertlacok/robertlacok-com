@@ -6,7 +6,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: Robert Lacok
-  content: Hello!
+  content: 'Hello! '
   background_image: ''
   image:
     image: ''
