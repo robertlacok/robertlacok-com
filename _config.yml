@@ -4,7 +4,7 @@ email: robert.lacok@gmail.com
 description: >-
   About me
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "robertlacok.com" # your site's origin, e.g. https://forestry.io
+url: "https://robertlacok.com" # your site's origin, e.g. https://forestry.io
 
 # Build settings
 defaults:
