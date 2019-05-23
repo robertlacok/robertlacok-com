@@ -7,7 +7,7 @@ page_sections:
   block: hero-2
   headline: Robert Lacok
   content: Hello!
-  background_image: "/uploads/2019/05/23/robert_hero.jpg"
+  background_image: "/ubuild-jekyll/uploads/2019/05/23/robert_hero.jpg"
   image:
     image: ''
     alt_text: ''
