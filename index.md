@@ -1,7 +1,7 @@
 ---
 layout: blocks
-title: Robert Lacok
-date: 2017-11-23 00:00:00 +0100
+title: Robert Lacok | Hi there
+date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: hero-banner-w-image
   block: hero-2
