@@ -17,9 +17,6 @@ sections:
 - type: document
   path: _config.yml
   label: Config
-- type: jekyll-pages
-  label: Jekyll Pages
-  create: all
 - type: directory
   path: ''
   label: All Files
