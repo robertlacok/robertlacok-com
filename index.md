@@ -11,7 +11,7 @@ page_sections:
     href="https://stackoverflow.com/users/6933420/robert-lacok" title="">StackOverflow</a>
   background_image: ''
   image:
-    image: ''
+    image: "/uploads/2019/06/06/undraw_predictive_analytics_kf9n_1.svg"
     alt_text: ''
   cta:
     enabled: false
