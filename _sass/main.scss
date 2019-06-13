@@ -6,3 +6,9 @@ a {
     text-decoration: underline;
   }
 }
+
+p {
+  &.hero-text {
+    line-height: 180%;
+  }
+}
