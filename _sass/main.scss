@@ -12,3 +12,14 @@ p {
     line-height: 180%;
   }
 }
+
+
+.block-hero-2 {
+    --bg: #17171c;
+}
+
+::selection {
+    background: #EEF7FF;
+    color: #FFF;
+}
+
