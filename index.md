@@ -11,7 +11,7 @@ page_sections:
     <a href="https://www.facebook.com/robert.lacok" title="">Facebook</a><br><a
     href="https://www.linkedin.com/in/robert-lacok-78783b58/" title="">LinkedIn</a><br><a
     href="https://stackoverflow.com/users/6933420/robert-lacok" title="">StackOverflow</a><br><a
-    href="mailto:robert.lacok@gmail.com" title="">robert.lacok@gmail.com</a>
+    href="mailto:robert.lacok@pm.me" title="">robert.lacok@pm.me</a>
   background_image: ''
   image:
     image: "/uploads/2020/03/undraw_hacker_mindset_gjwq.svg"
