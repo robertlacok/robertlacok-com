@@ -1,6 +1,6 @@
 {
-  "name": "hagura-svelte",
-  "version": "0.0.1",
+  "name": "roberts-recipes",
+  "version": "1.0.0",
   "scripts": {
     "dev": "svelte-kit dev",
     "build": "svelte-kit build",
