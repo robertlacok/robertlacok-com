@@ -1,7 +1,7 @@
 ---
 title: Zemiaky s bryndzou
 slug: zemiaky-s-bryndzou
-description: Super aj na cestu
+description: Super aj na cestu.
 image:
 ---
 

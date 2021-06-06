@@ -1,7 +1,8 @@
 ---
 title: Sunday roast
 slug: sunday-roast
-description: 
-image: 
+description: Pomaly pečené hovädzie, mrkva a zemiaky.
+image:
 ---
 
+Mrkvu a zemiaky pridáme neskôr.

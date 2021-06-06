@@ -1,7 +1,6 @@
 ---
 title: Palacinky
 slug: palacinky
-description: 
-image: 
+description:
+image:
 ---
-

@@ -1,7 +1,6 @@
 ---
 title: Quiche
 slug: quiche
-description: 
-image: 
+description: Lístkové cesto ako základ.
+image:
 ---
-

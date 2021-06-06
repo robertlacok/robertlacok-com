@@ -1,7 +1,6 @@
 ---
-title: Ovsená kasa
+title: Ovsená kaša
 slug: ovsena-kasa
-description: 
-image: 
+description:
+image:
 ---
-

@@ -42,9 +42,7 @@
 <main>
   <article>
     <h1 class="font-bold text-6xl mb-12">Čo jesť?</h1>
-    <p class="mb-8">
-      Minimalistická zbierka receptov, ktoré boli niekedy v pravidelnej rotácii. Tak aby sa na ne nezabudlo.
-    </p>
+    <p class="mb-8">Minimalistická zbierka receptov. Aby sa na ne nezabudlo.</p>
     <div class="article-list">
       {#each paginatedItems as { metadata: { title, description, tags, outline, slug }, path }}
         <div class="mb-4">

@@ -1,7 +1,8 @@
 ---
-title: Pečené bataty s cesnakovým dipom
-slug: pecene-bataty-s-cesnakovym-dipom
-description: 
-image: 
+title: Pečené bataty
+slug: pecene-bataty
+description: S cesnakovým dipom
+image:
 ---
 
+Jogurt, rozpučený cesnak, soľ a čierne korenie. K tomu pečené bataty.

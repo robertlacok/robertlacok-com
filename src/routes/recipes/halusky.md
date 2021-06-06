@@ -1,8 +1,6 @@
 ---
 title: Halušky
 slug: halusky
-description:
+description: Super sú aj z prkénka, nie len cez haluškovač.
 image:
 ---
-
-Super sú aj z prkénka, nie len cez haluškovač.

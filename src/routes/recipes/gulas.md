@@ -5,4 +5,4 @@ description: Klasika.
 image:
 ---
 
-Cibule toľko kolko mäsa.
+Cibule toľko, koľko mäsa.

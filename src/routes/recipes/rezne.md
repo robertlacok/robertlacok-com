@@ -1,7 +1,6 @@
 ---
 title: Rezne
 slug: rezne
-description: 
-image: 
+description:
+image:
 ---
-

@@ -1,7 +1,6 @@
 ---
 title: Pulled pork
 slug: pulled-pork
-description: 
-image: 
+description: Pomaly pečené pliecko.
+image:
 ---
-

@@ -1,7 +1,7 @@
 ---
 title: Kapustnica
 slug: kapustnica
-description: Zimný repertoár
+description: Zimný repertoár.
 image:
 ---
 
