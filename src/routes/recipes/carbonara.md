@@ -1,7 +1,7 @@
 ---
 title: Carbonara
 slug: carbonara
-description:
+description: Lepšie ako vo Vapiane.
 image:
 ---
 
