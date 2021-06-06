@@ -14,7 +14,7 @@
 </article>
 
 <div class="mb-4">
-  <a href="/"> &larr; Späť</a>
+  <a href="/recipes"> &larr; Späť</a>
 </div>
 
 <div class="recipe-img mb-4">

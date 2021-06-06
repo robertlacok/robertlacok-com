@@ -8,9 +8,6 @@
 </div>
 
 <svelte:head>
-  <title>Čo jesť?</title>
-  <meta
-    name="description"
-    content="Minimalistická zbierka receptov, ktoré boli niekedy v pravidelnej rotácii, ale už nie sú. Tak aby sa na ne nezabudlo."
-  />
+  <title>Robert Lacok - about</title>
+  <meta name="description" content="Hi! I'm Robert. I create software." />
 </svelte:head>

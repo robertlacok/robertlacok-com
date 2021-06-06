@@ -1,71 +1,14 @@
-<script context="module">
-  const posts = import.meta.glob("./recipes/*.{md,svx}");
+<h1 class="font-bold text-6xl mt-24">Hi! I'm Robert.</h1>
 
-  let body = [];
+<h2 class="font-bold text-6xl my-4">I create software.</h2>
 
-  for (const path in posts) {
-    body.push(
-      posts[path]().then(({ metadata }) => {
-        return {
-          metadata,
-          path,
-        };
-      })
-    );
-  }
-  /**
-   * @type {import('@sveltejs/kit').Load}
-   */
-  export async function load() {
-    const res = await Promise.all(body);
-    const posts = res;
-    return {
-      props: {
-        posts,
-      },
-    };
-  }
-</script>
+<article class="mt-12">
+  <p>Right now, I'm working on <a href="https://deepnote.com">Deepnote</a>.</p>
+  <a href="https://www.linkedin.com/in/robert-lacok/">LinkedIn</a><br />
+  <a href="https://stackoverflow.com/users/6933420/robert-lacok">StackOverflow</a><br />
+  <a href="mailto:hello@robertlacok.com">hello@robertlacok.com</a>
+</article>
 
-<script>
-  import { paginate, PaginationNav } from "svelte-paginate";
-  //https://www.npmjs.com/package/svelte-paginate
-
-  export let posts;
-
-  let items = posts;
-  let currentPage = 1;
-  let pageSize = 200;
-  $: paginatedItems = paginate({ items, pageSize, currentPage });
-</script>
-
-<main>
-  <article>
-    <h1 class="font-bold text-6xl mb-12">Čo jesť?</h1>
-    <p class="mb-8">Minimalistická zbierka receptov. Aby sa na ne nezabudlo.</p>
-    <div class="article-list">
-      {#each paginatedItems as { metadata: { title, description, tags, outline, slug }, path }}
-        <div class="mb-4">
-          <a sveltekit:prefetch href={path.replace(/\.[^/.]+$/, "")}
-            ><h2 class="text-3xl leading-relaxed">{title}</h2></a
-          >
-          {#if description}
-            <small>{description}</small>
-          {/if}
-        </div>
-      {/each}
-    </div>
-    {#if posts.length > pageSize}
-      <div class="mx-auto">
-        <PaginationNav
-          totalItems={items.length}
-          {pageSize}
-          {currentPage}
-          limit={1}
-          showStepOptions={true}
-          on:setPage={(e) => (currentPage = e.detail.page)}
-        />
-      </div>
-    {/if}
-  </article>
-</main>
+<div class="mt-12">
+  <p><small>I also like to <a href="/recipes">cook</a>.</small></p>
+</div>
