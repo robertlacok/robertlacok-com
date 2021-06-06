@@ -18,7 +18,7 @@
 </div>
 
 <div class="recipe-img mb-4">
-  <img class="recipe-img" src="/static/pictures/{image}.jpg" onerror="this.style.display = 'none'" alt={title} />
+  <img class="recipe-img" src="/pictures/{image}.jpg" onerror="this.style.display = 'none'" alt={title} />
 </div>
 
 <svelte:head>
