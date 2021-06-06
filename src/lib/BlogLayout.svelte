@@ -10,7 +10,7 @@
 </div>
 
 <div class="mb-4">
-  <a href="/"> &larr; Späť na všetky recepty</a>
+  <a href="/"> &larr; Späť</a>
 </div>
 
 <svelte:head>

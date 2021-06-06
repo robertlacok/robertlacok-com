@@ -43,8 +43,7 @@
   <article>
     <h1 class="font-bold text-6xl mb-12">Čo jesť?</h1>
     <p class="mb-8">
-      Minimalistická zbierka receptov, ktoré boli niekedy v pravidelnej rotácii, ale už nie sú. Tak aby sa na ne
-      nezabudlo.
+      Minimalistická zbierka receptov, ktoré boli niekedy v pravidelnej rotácii. Tak aby sa na ne nezabudlo.
     </p>
     <div class="article-list">
       {#each paginatedItems as { metadata: { title, description, tags, outline, slug }, path }}
@@ -52,7 +51,7 @@
           <a sveltekit:prefetch href={path.replace(/\.[^/.]+$/, "")}
             ><h2 class="text-3xl leading-relaxed">{title}</h2></a
           >
-          <!-- <p>{description}</p> -->
+          <small>{description}</small>
         </div>
       {/each}
     </div>

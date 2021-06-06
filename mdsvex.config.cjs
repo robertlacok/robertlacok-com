@@ -23,6 +23,6 @@ module.exports = {
     ],
   ],
   layout: {
-    blog: "./src/lib/BlogLayout.svelte",
+    _: "./src/lib/BlogLayout.svelte",
   },
 };
