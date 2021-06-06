@@ -5,4 +5,4 @@ description: "Veľké, slávnostné jedlo. Nečakaj, že sa najbližšiu hodinu 
 image:
 ---
 
-Naposledy som robil podla [tohto](https://cooking.nytimes.com/recipes/1018528-beef-bourguignon) a bolo to super.
+Naposledy som robil podľa [tohto](https://cooking.nytimes.com/recipes/1018528-beef-bourguignon) a bolo to super.
