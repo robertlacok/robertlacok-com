@@ -51,7 +51,9 @@
           <a sveltekit:prefetch href={path.replace(/\.[^/.]+$/, "")}
             ><h2 class="text-3xl leading-relaxed">{title}</h2></a
           >
-          <small>{description}</small>
+          {#if description}
+            <small>{description}</small>
+          {/if}
         </div>
       {/each}
     </div>

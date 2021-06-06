@@ -1,6 +1,7 @@
 ---
-title = Špagety s pestom
-slug = spagety-s-pestom
-description = 
+title: Špagety s pestom
+slug: spagety-s-pestom
+description: 
+image: 
 ---
 

@@ -74,6 +74,9 @@ ul {
   list-style: disc;
   margin-left: 2em;
 }
+article p {
+  margin-bottom: 1em;
+}
 
 .pagination-nav {
   display: flex;

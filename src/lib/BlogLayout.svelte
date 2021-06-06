@@ -5,9 +5,9 @@
 
 <h1 class="font-bold text-6xl mb-12">{title}</h1>
 
-<div class="post">
+<article class="post">
   <slot />
-</div>
+</article>
 
 <div class="mb-4">
   <a href="/"> &larr; Späť</a>

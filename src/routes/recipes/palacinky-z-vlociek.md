@@ -1,6 +1,7 @@
 ---
-title = Palacinky z vločiek
-slug = palacinky-z-vlociek
-description = 
+title: Palacinky z vločiek
+slug: palacinky-z-vlociek
+description: 
+image: 
 ---
 

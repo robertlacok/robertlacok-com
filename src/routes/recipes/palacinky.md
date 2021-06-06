@@ -1,6 +1,7 @@
 ---
-title = Palacinky
-slug = palacinky
-description = 
+title: Palacinky
+slug: palacinky
+description: 
+image: 
 ---
 

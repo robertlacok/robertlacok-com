@@ -1,6 +1,7 @@
 ---
-title = Tekvicové curry
-slug = tekvicove-curry
-description = 
+title: Tekvicové curry
+slug: tekvicove-curry
+description: 
+image: 
 ---
 

@@ -1,6 +1,7 @@
 ---
-title = Ovsená kasa
-slug = ovsena-kasa
-description = 
+title: Ovsená kasa
+slug: ovsena-kasa
+description: 
+image: 
 ---
 

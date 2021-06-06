@@ -1,6 +1,7 @@
 ---
-title = Rezne
-slug = rezne
-description = 
+title: Rezne
+slug: rezne
+description: 
+image: 
 ---
 

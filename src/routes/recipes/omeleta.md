@@ -1,6 +1,7 @@
 ---
-title = Omeleta
-slug = omeleta
-description = 
+title: Omeleta
+slug: omeleta
+description: 
+image: 
 ---
 
