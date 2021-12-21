@@ -9,6 +9,6 @@
   <a href="mailto:hello@robertlacok.com">hello@robertlacok.com</a>
 </article>
 
-<div class="mt-12">
+<!-- <div class="mt-12">
   <p><small>I also like to <a href="/recipes">cook</a>.</small></p>
-</div>
+</div> -->
