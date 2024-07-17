@@ -9,5 +9,5 @@
 
 <svelte:head>
   <title>Robert Lacok - about</title>
-  <meta name="description" content="Hi! I'm Robert. I create software." />
+  <meta name="description" content="Hi! I'm Robert. I like product, sales & data science." />
 </svelte:head>
