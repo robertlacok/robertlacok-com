@@ -1,11 +1,7 @@
-## Installation
+# robertlacok.com — The Artificial Intelligencer
 
-Run the following commands.
+A single-file static site (`index.html`, inline CSS/JS, no build step). Honest AI consulting for small e-shops, disguised as a 1990s broadsheet.
 
-`npm install`
+Deployed by Netlify on push to `master` (publishes the repo root as-is); also served by GitHub Pages from the same branch.
 
-`npm run dev` for development
-
-## Dependency
-
-The app needs node 16 to work as expected.
+Source of truth for edits lives in the `contracting` working repo; copy the updated `index.html` here and push.
